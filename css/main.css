@@ -1,4 +1,5 @@
 /* General */
+
 * {
   padding: 0;
   margin: 0;
@@ -19,35 +20,34 @@ header {
   margin-top: 30px;
   width: auto;
   height: 600px;
-  background-color: #ffdb4d;
+  background-color: #f0c775;
 }
 
 .second-section {
   background-color: #4d4dff;
   width: auto;
-  height: 720px;
+  height: 800px;
   margin-top: 30px;
 }
 
 .riga {
   width: auto;
-  height: 15%;
+  height: 12%;
   background-color: #80bfff;
 }
 
 .col1 {
   width: 20%;
   background-color: #80bfff;
-  height: 80%;
-  margin-top: 16px;
-
+  height: 83%;
+  margin-top: 20px;
   float: left;
 }
 .col2 {
   width: 58%;
   background-color: #80bfff;
-  height: 80%;
-  margin-top: 16px;
+  height: 83%;
+  margin-top: 20px;
   margin-left: 1%;
   display: inline-block;
 }
@@ -55,10 +55,15 @@ header {
 .col3 {
   width: 20%;
   background-color: #80bfff;
-  height: 80%;
-  margin-top: 16px;
+  height: 83%;
+  margin-top: 20px;
   float: right;
 }
+
 /* Footer */
 footer {
+  width: auto;
+  height: 70px;
+  background-color: #9605c7;
+  margin-top: 20px;
 }
