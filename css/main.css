@@ -21,3 +21,44 @@ header {
   height: 600px;
   background-color: #ffdb4d;
 }
+
+.second-section {
+  background-color: #4d4dff;
+  width: auto;
+  height: 720px;
+  margin-top: 30px;
+}
+
+.riga {
+  width: auto;
+  height: 15%;
+  background-color: #80bfff;
+}
+
+.col1 {
+  width: 20%;
+  background-color: #80bfff;
+  height: 80%;
+  margin-top: 16px;
+
+  float: left;
+}
+.col2 {
+  width: 58%;
+  background-color: #80bfff;
+  height: 80%;
+  margin-top: 16px;
+  margin-left: 1%;
+  display: inline-block;
+}
+
+.col3 {
+  width: 20%;
+  background-color: #80bfff;
+  height: 80%;
+  margin-top: 16px;
+  float: right;
+}
+/* Footer */
+footer {
+}
