@@ -1,1 +1,23 @@
+/* General */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 
+/* Header */
+
+header {
+  width: auto;
+  height: 100px;
+  background-color: #ff66d9;
+}
+
+/* Main content */
+
+.first-section {
+  margin-top: 30px;
+  width: auto;
+  height: 600px;
+  background-color: #ffdb4d;
+}
